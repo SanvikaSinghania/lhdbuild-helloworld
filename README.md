@@ -1,6 +1,6 @@
 # LHD:Build-HelloWorld
 ## About
-For the Local Hack Day: Build's challenge "Hello, World in a New Language", I'm using ArnoldC, A programming language based on Arnold Schwarzenegger’s movie one-liners<br>
+For the Local Hack Day: Build's challenge "Hello, World in a New Language", I'm using ArnoldC, A programming language based on Arnold Schwarzenegger’s movie one-liners.<br>
 ArnoldC warrants only one description: Get your ass to Mars.
 It unveils the true semantics of Arnie’s legendary, classic movie quotes. All the greats are there: Terminator 2, Total Recall, Predator and of course… COMMANDO.
 
